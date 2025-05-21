@@ -1,4 +1,4 @@
-baseURL: "https://sjoerdteunisse.github.io/blog"
+baseURL: "https://sjoerdteunisse.github.io/hugo-demo/"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
